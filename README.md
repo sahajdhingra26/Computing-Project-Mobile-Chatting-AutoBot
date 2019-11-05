@@ -1,4 +1,4 @@
-<h1>Mobile Chatting AutoBot(COMP90055 Computing Project) Submitted to Univeristy of Melbourne</h1>
+<h1>Mobile Chatting AutoBot(COMP90055 Computing Project) Submitted to University of Melbourne</h1>
 <h3>Submitted by</h3>
 <h4>Sahaj Dhingra 960448</h4> 
 <h4>Hetal Shah 965690</h4> 
